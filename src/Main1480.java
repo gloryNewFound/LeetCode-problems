@@ -1,11 +1,18 @@
-public class Main {
+import com.sun.tools.javac.Main;
+
+public class Main1480 {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        int[] nums = {3,1,2,10,1};
+        int[] sum = (new Main1480()).runningSum(nums);
+        for (int i: sum) {
+            System.out.println(i);
+        }
     }
 
-
     public int[] runningSum(int[] nums) {
-        int sum = 0;
-
+        for (int i = 1; i < nums.length; i++) {
+            nums[i] = nums[i] + nums[i - 1];
+        }
+        return nums;
     }
 }
