@@ -1,7 +1,7 @@
 import java.util.HashMap;
 import java.util.Map;
 
-public class Main205 {
+public class Solution205 {
 
     public static void main(String[] args) {
         String s = "foo";

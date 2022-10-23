@@ -1,4 +1,4 @@
-public class Main392 {
+public class Solution392 {
     public static void main(String[] args) {
         String s = "abcd";
         String t = "ahbgdcd";

@@ -1,9 +1,7 @@
-import com.sun.tools.javac.Main;
-
-public class Main1480 {
+public class Solution1480 {
     public static void main(String[] args) {
         int[] nums = {3,1,2,10,1};
-        int[] sum = (new Main1480()).runningSum(nums);
+        int[] sum = (new Solution1480()).runningSum(nums);
         for (int i: sum) {
             System.out.println(i);
         }

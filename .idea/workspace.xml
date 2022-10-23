@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="36c7afd3-d8e1-4b7e-a97e-ae877e040efb" name="Changes" comment="Commit 742 solution">
-      <change afterPath="$PROJECT_DIR$/src/Main392.java" afterDir="false" />
+    <list default="true" id="36c7afd3-d8e1-4b7e-a97e-ae877e040efb" name="Changes" comment="Commit 392 solution">
+      <change afterPath="$PROJECT_DIR$/src/Solution121.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution409.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main1480.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution1480.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main205.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution205.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main392.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution392.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main724.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution724.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,23 +40,30 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Main392">
-    <configuration name="Main205" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main205" />
+  <component name="RunManager" selected="Application.Solution121">
+    <configuration name="Solution121" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution121" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main392" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main392" />
+    <configuration name="Solution205" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution205" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main724" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main724" />
+    <configuration name="Solution392" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution392" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution724" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution724" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -59,9 +71,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main392" />
-        <item itemvalue="Application.Main205" />
-        <item itemvalue="Application.Main724" />
+        <item itemvalue="Application.Solution121" />
+        <item itemvalue="Application.Solution392" />
+        <item itemvalue="Application.Solution205" />
+        <item itemvalue="Application.Solution724" />
       </list>
     </recent_temporary>
   </component>
@@ -88,7 +101,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665944724407</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Commit 392 solution">
+      <created>1665990077884</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1665990077884</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -105,6 +125,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit 1480 best solution" />
     <MESSAGE value="Commit 742 solution" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit 742 solution" />
+    <MESSAGE value="Commit 392 solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 392 solution" />
   </component>
 </project>
