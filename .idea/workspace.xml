@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="36c7afd3-d8e1-4b7e-a97e-ae877e040efb" name="Changes" comment="Commit 392 solution">
-      <change afterPath="$PROJECT_DIR$/src/Solution121.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Solution409.java" afterDir="false" />
+    <list default="true" id="36c7afd3-d8e1-4b7e-a97e-ae877e040efb" name="Changes" comment="Commit 121 solution">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main1480.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution1480.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main205.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution205.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main392.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution392.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main724.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution724.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Solution409.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Solution409.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,12 +30,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.Solution121">
     <configuration name="Solution121" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Solution121" />
@@ -108,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665990077884</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Commit 121 solution">
+      <created>1666518290756</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1666518290756</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -126,6 +131,7 @@
     <MESSAGE value="Commit 1480 best solution" />
     <MESSAGE value="Commit 742 solution" />
     <MESSAGE value="Commit 392 solution" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit 392 solution" />
+    <MESSAGE value="Commit 121 solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 121 solution" />
   </component>
 </project>
