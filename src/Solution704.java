@@ -19,7 +19,6 @@ public class Solution704 {
                 lowest = middle + 1;
             }
         }
-
         return -1;
     }
 }
