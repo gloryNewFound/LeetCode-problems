@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="36c7afd3-d8e1-4b7e-a97e-ae877e040efb" name="Changes" comment="Commit 509 solution&#10;Fibonacci number">
-      <change afterPath="$PROJECT_DIR$/src/BestTimetoBuyandSellStock2.java" afterDir="false" />
+    <list default="true" id="36c7afd3-d8e1-4b7e-a97e-ae877e040efb" name="Changes" comment="Commit 122 solution&#10;BestTimetoBuyandSellStock2 number">
+      <change afterPath="$PROJECT_DIR$/src/Solution189.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,21 +37,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.BestTimetoBuyandSellStock2 (4)">
-    <configuration name="BestTimetoBuнandSellStock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BestTimetoBuнandSellStock" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BestTimetoBuнandSellStock2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BestTimetoBuнandSellStock2" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Solution189">
     <configuration name="BestTimetoBuyandSellStock2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BestTimetoBuyandSellStock2" />
       <module name="LeetCode" />
@@ -80,8 +66,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BestTimetoBuyandSellStock2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BestTimetoBuyandSellStock2" />
+    <configuration name="Solution189" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution189" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -89,11 +75,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution189" />
         <item itemvalue="Application.BestTimetoBuyandSellStock2 (4)" />
         <item itemvalue="Application.BestTimetoBuyandSellStock2 (3)" />
         <item itemvalue="Application.BestTimetoBuyandSellStock2 (2)" />
         <item itemvalue="Application.BestTimetoBuyandSellStock2 (1)" />
-        <item itemvalue="Application.BestTimetoBuyandSellStock2" />
       </list>
     </recent_temporary>
   </component>
@@ -162,7 +148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666901005140</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Commit 122 solution&#10;BestTimetoBuyandSellStock2 number">
+      <created>1667564291634</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1667564291634</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -185,6 +178,7 @@
     <MESSAGE value="Commit 704 solution&#10;BINARY SEARCH" />
     <MESSAGE value="Commit 704 solution&#10;Fibonacci number" />
     <MESSAGE value="Commit 509 solution&#10;Fibonacci number" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit 509 solution&#10;Fibonacci number" />
+    <MESSAGE value="Commit 122 solution&#10;BestTimetoBuyandSellStock2 number" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 122 solution&#10;BestTimetoBuyandSellStock2 number" />
   </component>
 </project>
